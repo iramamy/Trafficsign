@@ -11,4 +11,4 @@ Due to the imbalance in the dataset, class weights were used.
 ## Model performance
 ![History](./Images/model_history.jpg)
 
-
+The model achieved a test accuracy of 94.33%.
