@@ -4,4 +4,11 @@
 This data is derived from the German Traffic Sign on [Kaggle](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
 
 ## Class Imbalance Handling
-![Track and Count Camel](./Images/class_distribution.jpg)
+![Class distribution](./Images/class_distribution.jpg)
+
+Due to the imbalance in the dataset, class weights were used.
+
+## Model performance
+![History](./Images/model_history.jpg)
+
+
