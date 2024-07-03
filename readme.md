@@ -12,3 +12,12 @@ Due to the imbalance in the dataset, class weights were used.
 ![History](./Images/model_history.jpg)
 
 The model achieved a test accuracy of 94.33%.
+
+## Tags
+- Traffic Sign Classification
+- Machine Learning
+- Neural Networks
+- Image Classification
+- Deep Learning
+- Keras
+- Computer Vision
